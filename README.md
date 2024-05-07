@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 - [reactnative-stephengrider-reactnative](https://github.com/clarklindev/reactnative-stephengrider-reactnative)
 - [reactnative-stephengrider-reactnative-advanced](https://github.com/clarklindev/reactnative-stephengrider-reactnative-advanced)
 
-### Angular
+### angular
 - [notes-angular](https://github.com/clarklindev/notes-angular.git)
 ---
 
