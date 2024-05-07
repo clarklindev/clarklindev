@@ -146,6 +146,9 @@ Here are some ideas to get you started:
 ### Notes
 - [notes](https://github.com/clarklindev/notes)
 
+### Git
+- [notes-git](https://github.com/clarklindev/git.git)
+
 ### Blender
 - [blender-complete-blender-creator-learn-3D-modelling-for-beginners](https://github.com/clarklindev/blender-complete-blender-creator-learn-3D-modelling-for-beginners)
 - [blender-teeth-and-gums](https://github.com/clarklindev/blender-teeth-and-gums)
