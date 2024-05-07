@@ -146,6 +146,9 @@ Here are some ideas to get you started:
 ### Notes
 - [notes](https://github.com/clarklindev/notes)
 
+### Data-structures-and-algorithms
+- [data-structures-and-algorithms](https://github.com/clarklindev/data-structures-and-algorithms.git)
+
 ### Git
 - [notes-git](https://github.com/clarklindev/git.git)
 
