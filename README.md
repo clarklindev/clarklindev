@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Frontend
 
 ### Design system
@@ -23,6 +24,7 @@ Here are some ideas to get you started:
 - [css-template-css-grid](https://github.com/clarklindev/css-template-css-grid)
 - [scss-flexbox-grid](https://github.com/clarklindev/scss-flexbox-grid)
 - [swagfinger-working-with-fonts](https://github.com/clarklindev/swagfinger-working-with-fonts)
+- [notes-css](https://github.com/clarklindev/notes-css)
 
 ### TailwindCSS
 - [tailwindcss-adamwathan](https://github.com/clarklindev/tailwindcss-adamwathan)
@@ -32,6 +34,7 @@ Here are some ideas to get you started:
 - [captainrefactor-fundamentals](https://github.com/clarklindev/captainrefactor-fundamentals)
 - [javascript-swagfinger-component-js-datepicker](https://github.com/clarklindev/javascript-swagfinger-component-js-datepicker)
 - [javascript-swagfinger-component-upload](https://github.com/clarklindev/javascript-swagfinger-component-upload)
+- [notes-javascript](https://github.com/clarklindev/notes-javascript.git)
 
 ### Threejs
 - [threejourney](https://github.com/clarklindev/threejourney)
@@ -60,6 +63,7 @@ Here are some ideas to get you started:
 
 ### angular
 - [notes-angular](https://github.com/clarklindev/notes-angular.git)
+
 ---
 
 # Backend
