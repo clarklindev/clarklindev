@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 - [nextjs14-react-the-complete-guide](https://github.com/clarklindev/nextjs14-react-the-complete-guide)
 
 ### React
+- [notes-react](https://github.com/clarklindev/notes-react)
 - [react-materialui](https://github.com/clarklindev/react-materialui)
 - [react-maximilianschwarzmuller-udemy-react](https://github.com/clarklindev/react-maximilianschwarzmuller-udemy-react)
 - [react-renderprops](https://github.com/clarklindev/react-renderprops)
@@ -72,7 +73,7 @@ Here are some ideas to get you started:
 # Fullstack
 
 ### Authentication
-- [https://github.com/clarklindev/authentication](https://github.com/clarklindev/authentication)
+- [authentication](https://github.com/clarklindev/authentication)
 
 ### Golang
 - [golang-netninja](https://github.com/clarklindev/golang-netninja)
