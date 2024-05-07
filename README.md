@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 - [reactnative-stephengrider-reactnative](https://github.com/clarklindev/reactnative-stephengrider-reactnative)
 - [reactnative-stephengrider-reactnative-advanced](https://github.com/clarklindev/reactnative-stephengrider-reactnative-advanced)
 
+### Angular
+- [notes-angular](https://github.com/clarklindev/notes-angular.git)
 ---
 
 # Backend
@@ -82,7 +84,7 @@ Here are some ideas to get you started:
 ### Node.js
 - [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide)
 - [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-backend](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-backend)
-- [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend.git](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend.git)
+- [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend.git)
 - [captainrefactor-backend](https://github.com/clarklindev/captainrefactor-backend)
 - [nodejs-swagfinger-template-generate-pdf](https://github.com/clarklindev/nodejs-swagfinger-template-generate-pdf)
 - [nodejs-template-server-api-keys](https://github.com/clarklindev/nodejs-template-server-api-keys)
