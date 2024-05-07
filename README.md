@@ -119,6 +119,9 @@ Here are some ideas to get you started:
 
 ## Devops / Architecture
 
+### AWS
+- [https://github.com/clarklindev/cloud-aws.git](https://github.com/clarklindev/cloud-aws.git)
+
 ### Microfrontends / Monorepo
 - [https://github.com/clarklindev/microfrontends-stephengrider](https://github.com/clarklindev/microfrontends-stephengrider)
 - [https://github.com/clarklindev/monorepo-example](https://github.com/clarklindev/monorepo-example)
