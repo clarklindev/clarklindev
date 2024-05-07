@@ -71,6 +71,9 @@ Here are some ideas to get you started:
 
 # Fullstack
 
+### Authentication
+- [https://github.com/clarklindev/authentication](https://github.com/clarklindev/authentication)
+
 ### Golang
 - [golang-netninja](https://github.com/clarklindev/golang-netninja)
 - [golang-stephengrider](https://github.com/clarklindev/golang-stephengrider)
