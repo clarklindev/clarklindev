@@ -130,7 +130,8 @@ Here are some ideas to get you started:
 ## Devops / Architecture
 
 ### AWS
-- [cloud-aws.git](https://github.com/clarklindev/cloud-aws.git)
+- [cloud-aws-cloud-practioner](https://github.com/clarklindev/cloud-aws-cloud-practitioner)
+- [cloud-aws-developer-associate](https://github.com/clarklindev/cloud-aws-developer-associate)
 
 ### Microfrontends / Monorepo
 - [microfrontends-stephengrider](https://github.com/clarklindev/microfrontends-stephengrider)
