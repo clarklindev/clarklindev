@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - [threejourney](https://github.com/clarklindev/threejourney)
 
 ### Next.js
-- [nextjs-maximilianschwarzmuller-nextjs-react-the-complete-guide](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs-react-the-complete-guide)
+- [nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide)
 - [nextjs-netninja](https://github.com/clarklindev/nextjs-netninja)
 - [nextjs-officialwebsite-tutorial-nextjs-learn-basics](https://github.com/clarklindev/nextjs-officialwebsite-tutorial-nextjs-learn-basics)
 - [nextjs-traversymedia.git](https://github.com/clarklindev/nextjs-traversymedia.git)
