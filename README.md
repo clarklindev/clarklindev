@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 - [nextjs-netninja](https://github.com/clarklindev/nextjs-netninja)
 - [nextjs-officialwebsite-tutorial-nextjs-learn-basics](https://github.com/clarklindev/nextjs-officialwebsite-tutorial-nextjs-learn-basics)
 - [nextjs-traversymedia.git](https://github.com/clarklindev/nextjs-traversymedia.git)
-- [nextjs14-react-the-complete-guide](https://github.com/clarklindev/nextjs14-react-the-complete-guide)
 
 ### React
 - [notes-react](https://github.com/clarklindev/notes-react)
