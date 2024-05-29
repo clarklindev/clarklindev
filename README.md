@@ -77,6 +77,10 @@ Here are some ideas to get you started:
 
 # Fullstack
 
+### AWS
+- [AWS-storing-images-in-AWS-s3](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide?tab=readme-ov-file#130-storing-uploaded-images-in-the-cloud-aws-s3)
+
+
 ### Authentication
 - [authentication](https://github.com/clarklindev/authentication)
 
