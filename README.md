@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 
 ### React
 - [notes-react](https://github.com/clarklindev/notes-react)
+- [react-query](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
 - [react-materialui](https://github.com/clarklindev/react-materialui)
 - [react-maximilianschwarzmuller-udemy-react](https://github.com/clarklindev/react-maximilianschwarzmuller-udemy-react)
 - [react-renderprops](https://github.com/clarklindev/react-renderprops)
