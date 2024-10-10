@@ -41,8 +41,14 @@
 - [notes-javascript](https://github.com/clarklindev/notes-javascript.git)
 - [captainrefactor-fundamentals](https://github.com/clarklindev/captainrefactor-fundamentals)
 
+### Data-structures-and-algorithms
+- [data-structures-and-algorithms](https://github.com/clarklindev/data-structures-and-algorithms.git)
+
 ### angular
 - [notes-angular](https://github.com/clarklindev/notes-angular.git)
+
+### Notes
+- [notes](https://github.com/clarklindev/notes)
 
 ---
 
@@ -118,6 +124,9 @@
 
 ## Devops / Architecture
 
+### Git
+- [notes-git](https://github.com/clarklindev/git.git)
+
 ### AWS
 - [cloud-aws-cloud-practioner](https://github.com/clarklindev/cloud-aws-cloud-practitioner)
 - [cloud-aws-developer-associate](https://github.com/clarklindev/cloud-aws-developer-associate)
@@ -133,15 +142,6 @@
 
 ## Other
 
-### Notes
-- [notes](https://github.com/clarklindev/notes)
-
-### Data-structures-and-algorithms
-- [data-structures-and-algorithms](https://github.com/clarklindev/data-structures-and-algorithms.git)
-
-### Git
-- [notes-git](https://github.com/clarklindev/git.git)
-
 ### Blender
 - [blender-complete-blender-creator-learn-3D-modelling-for-beginners](https://github.com/clarklindev/blender-complete-blender-creator-learn-3D-modelling-for-beginners)
 - [blender-teeth-and-gums](https://github.com/clarklindev/blender-teeth-and-gums)
@@ -149,3 +149,4 @@
 - [blender-GIS](https://github.com/clarklindev/blender-GIS)
 - [blender-3d-topology-earth](https://github.com/clarklindev/blender-3d-topology-earth)
 - [blender-fur-particle-system](https://github.com/clarklindev/blender-fur-particle-system)
+
