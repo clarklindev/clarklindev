@@ -1,53 +1,18 @@
-
-<!--
-**clarklindev/clarklindev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Frontend
 
 ### Design system
 - [swagfingerUI](https://github.com/clarklindev/swagfingerUI)
 - [swagfingerUI-webpack](https://github.com/clarklindev/swagfingerUI-webpack)
 
-### CSS
-- [css-template-css-grid](https://github.com/clarklindev/css-template-css-grid)
-- [scss-flexbox-grid](https://github.com/clarklindev/scss-flexbox-grid)
-- [swagfinger-working-with-fonts](https://github.com/clarklindev/swagfinger-working-with-fonts)
-- [notes-css](https://github.com/clarklindev/notes-css)
-
-### TailwindCSS
-- [tailwindcss-adamwathan](https://github.com/clarklindev/tailwindcss-adamwathan)
-- [tailwindcss-netninja-tailwindcss](https://github.com/clarklindev/tailwindcss-netninja-tailwindcss)
-
-### Javascript
-- [captainrefactor-fundamentals](https://github.com/clarklindev/captainrefactor-fundamentals)
-- [javascript-swagfinger-component-js-datepicker](https://github.com/clarklindev/javascript-swagfinger-component-js-datepicker)
-- [javascript-swagfinger-component-upload](https://github.com/clarklindev/javascript-swagfinger-component-upload)
-- [notes-javascript](https://github.com/clarklindev/notes-javascript.git)
+### Microfrontends / Monorepo
+- [microfrontends-stephengrider](https://github.com/clarklindev/microfrontends-stephengrider)
+- [monorepo-example](https://github.com/clarklindev/monorepo-example)
 
 ### Threejs
 - [threejourney](https://github.com/clarklindev/threejourney)
 
-### Next.js
-- [nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide)
-- [nextjs-netninja](https://github.com/clarklindev/nextjs-netninja)
-- [nextjs-officialwebsite-tutorial-nextjs-learn-basics](https://github.com/clarklindev/nextjs-officialwebsite-tutorial-nextjs-learn-basics)
-- [nextjs-traversymedia.git](https://github.com/clarklindev/nextjs-traversymedia.git)
-
 ### React
 - [notes-react](https://github.com/clarklindev/notes-react)
-- [react-query](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
 - [react-materialui](https://github.com/clarklindev/react-materialui)
 - [react-maximilianschwarzmuller-udemy-react](https://github.com/clarklindev/react-maximilianschwarzmuller-udemy-react)
 - [react-renderprops](https://github.com/clarklindev/react-renderprops)
@@ -55,32 +20,50 @@ Here are some ideas to get you started:
 - [react-router-6](https://github.com/clarklindev/react-router-6)
 - [react-swagfinger-components-classbased](https://github.com/clarklindev/react-swagfinger-components-classbased)
 - [react-swagfinger-components-functionbased](https://github.com/clarklindev/react-swagfinger-components-functionbased)
+- [react-swagfinger-portfolio-dentalquote]()
 - [react-table](https://github.com/clarklindev/react-table)
 
 ### ReactNative
 - [reactnative-stephengrider-reactnative](https://github.com/clarklindev/reactnative-stephengrider-reactnative)
 - [reactnative-stephengrider-reactnative-advanced](https://github.com/clarklindev/reactnative-stephengrider-reactnative-advanced)
 
+### CSS + tailwind
+- [css-template-css-grid](https://github.com/clarklindev/css-template-css-grid)
+- [scss-flexbox-grid](https://github.com/clarklindev/scss-flexbox-grid)
+- [swagfinger-working-with-fonts](https://github.com/clarklindev/swagfinger-working-with-fonts)
+- [notes-css](https://github.com/clarklindev/notes-css)
+- [tailwindcss-adamwathan](https://github.com/clarklindev/tailwindcss-adamwathan)
+- [tailwindcss-netninja-tailwindcss](https://github.com/clarklindev/tailwindcss-netninja-tailwindcss)
+
+### Javascript
+- [javascript-swagfinger-component-js-datepicker](https://github.com/clarklindev/javascript-swagfinger-component-js-datepicker)
+- [javascript-swagfinger-component-upload](https://github.com/clarklindev/javascript-swagfinger-component-upload)
+- [notes-javascript](https://github.com/clarklindev/notes-javascript.git)
+- [captainrefactor-fundamentals](https://github.com/clarklindev/captainrefactor-fundamentals)
+
 ### angular
 - [notes-angular](https://github.com/clarklindev/notes-angular.git)
 
 ---
 
-# Backend
+# Fullstack
+
+### ReactQuery
+- [react-query](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
+
+### Next.js
+- [nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide)
+- [nextjs-netninja](https://github.com/clarklindev/nextjs-netninja)
+- [nextjs-officialwebsite-tutorial-nextjs-learn-basics](https://github.com/clarklindev/nextjs-officialwebsite-tutorial-nextjs-learn-basics)
+- [nextjs-traversymedia.git](https://github.com/clarklindev/nextjs-traversymedia.git)
+- [AWS-storing-images-in-AWS-s3](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide?tab=readme-ov-file#130-storing-uploaded-images-in-the-cloud-aws-s3)
+
 
 ### GraphQL
 - [graphql-stephengrider-graphql](https://github.com/clarklindev/graphql-stephengrider-graphql)
 
 ### PostgreSQL
 - [postgresql-stephengrider-postgresql](https://github.com/clarklindev/postgresql-stephengrider-postgresql)
-
----
-
-# Fullstack
-
-### AWS
-- [AWS-storing-images-in-AWS-s3](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide?tab=readme-ov-file#130-storing-uploaded-images-in-the-cloud-aws-s3)
-
 
 ### Authentication
 - [authentication](https://github.com/clarklindev/authentication)
@@ -122,10 +105,12 @@ Here are some ideas to get you started:
 - [webpack-template](https://github.com/clarklindev/webpack-template)
 - [webpack-traversymedia-webpack-starter](https://github.com/clarklindev/webpack-traversymedia-webpack-starter)
 
-### Testing - Cypress
-- [testing-maximilianschwarzmuller-cypress](https://github.com/clarklindev/testing-maximilianschwarzmuller-cypress)
+### Microservices
+- [microservices-stephengrider-with-node-and-react](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
 
-### Testing - React Testing Library
+### Testing
+- [testing-vitest](https://github.com/clarklindev/testing-vitetest.git)
+- [testing-maximilianschwarzmuller-cypress](https://github.com/clarklindev/testing-maximilianschwarzmuller-cypress)
 - [testing-netninja-react-testing-library](https://github.com/clarklindev/testing-netninja-react-testing-library)
 - [testing-stephengrider-react-testing-library-and-jest](https://github.com/clarklindev/testing-stephengrider-react-testing-library-and-jest)
 
@@ -137,16 +122,12 @@ Here are some ideas to get you started:
 - [cloud-aws-cloud-practioner](https://github.com/clarklindev/cloud-aws-cloud-practitioner)
 - [cloud-aws-developer-associate](https://github.com/clarklindev/cloud-aws-developer-associate)
 
-### Microfrontends / Monorepo
-- [microfrontends-stephengrider](https://github.com/clarklindev/microfrontends-stephengrider)
-- [monorepo-example](https://github.com/clarklindev/monorepo-example)
-
-### Microservices
-- [microservices-stephengrider-with-node-and-react](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
-
 ### Docker / Kubernetes
 - [docker-kubernetes-maximilianschwarzmuller-tutorial](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
 - [docker-kubernetes-adriancantrill](https://github.com/clarklindev/docker-kubernetes-adriancantrill)
+
+### Terraform
+- [devops-terraform-zero-to-mastery-udemy-devops-bootcamp-terraform]( https://github.com/clarklindev/devops-terraform-zero-to-mastery-udemy-devops-bootcamp-terraform)
 
 ---
 
