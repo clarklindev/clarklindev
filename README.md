@@ -23,10 +23,6 @@
 - [react-swagfinger-portfolio-dentalquote]()
 - [react-table](https://github.com/clarklindev/react-table)
 
-### ReactNative
-- [reactnative-stephengrider-reactnative](https://github.com/clarklindev/reactnative-stephengrider-reactnative)
-- [reactnative-stephengrider-reactnative-advanced](https://github.com/clarklindev/reactnative-stephengrider-reactnative-advanced)
-
 ### CSS + tailwind
 - [css-template-css-grid](https://github.com/clarklindev/css-template-css-grid)
 - [scss-flexbox-grid](https://github.com/clarklindev/scss-flexbox-grid)
@@ -64,6 +60,9 @@
 - [nextjs-traversymedia.git](https://github.com/clarklindev/nextjs-traversymedia.git)
 - [AWS-storing-images-in-AWS-s3](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide?tab=readme-ov-file#130-storing-uploaded-images-in-the-cloud-aws-s3)
 
+### ReactNative
+- [reactnative-stephengrider-reactnative](https://github.com/clarklindev/reactnative-stephengrider-reactnative)
+- [reactnative-stephengrider-reactnative-advanced](https://github.com/clarklindev/reactnative-stephengrider-reactnative-advanced)
 
 ### GraphQL
 - [graphql-stephengrider-graphql](https://github.com/clarklindev/graphql-stephengrider-graphql)
