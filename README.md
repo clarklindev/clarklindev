@@ -131,6 +131,7 @@
 - [cloud-aws-developer-associate](https://github.com/clarklindev/cloud-aws-developer-associate)
 
 ### Docker / Kubernetes
+- [docker-stephen-grider-basics-of-docker](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
 - [docker-kubernetes-maximilianschwarzmuller-tutorial](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
 - [docker-kubernetes-adriancantrill](https://github.com/clarklindev/docker-kubernetes-adriancantrill)
 
