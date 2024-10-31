@@ -100,10 +100,14 @@
 - [nodejs-stephengrider-passport-mongodb-stripe](https://github.com/clarklindev/nodejs-stephengrider-passport-mongodb-stripe)
 
 ### Typescript
-- [typescript-codevolution-react-typescript-tutorial-for-beginners](https://github.com/clarklindev/typescript-codevolution-react-typescript-tutorial-for-beginners)
 - [typescript-maximilianschwarzmuller-understanding-typescript](https://github.com/clarklindev/typescript-maximilianschwarzmuller-understanding-typescript)
+<br><br>
+- [typescript-stephengrider-basics-of-typescript](https://github.com/clarklindev/typescript-stephengrider-basics-of-typescript)
 - [typescript-stephengrider-typescript-complete-developers-guide](https://github.com/clarklindev/typescript-stephengrider-typescript-complete-developers-guide)
 - [typescript-stephengrider-typescript-portfolio](https://github.com/clarklindev/typescript-stephengrider-typescript-portfolio)
+<br><br>
+- [typescript-codevolution-react-typescript-tutorial-for-beginners](https://github.com/clarklindev/typescript-codevolution-react-typescript-tutorial-for-beginners)
+<br><br>
 - [typescript-swagfinger-template-typescript](https://github.com/clarklindev/typescript-swagfinger-template-typescript)
 
 ### Webpack
