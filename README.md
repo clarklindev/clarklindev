@@ -131,8 +131,7 @@
 - [notes-git](https://github.com/clarklindev/git.git)
 
 ### AWS
-- [cloud-aws-cloud-practioner](https://github.com/clarklindev/cloud-aws-cloud-practitioner)
-- [cloud-aws-developer-associate](https://github.com/clarklindev/cloud-aws-developer-associate)
+- [Cloud aws](https://github.com/clarklindev/cloud-aws.git)
 
 ### Docker / Kubernetes
 - [docker-stephen-grider-basics-of-docker](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
