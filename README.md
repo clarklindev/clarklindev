@@ -63,6 +63,10 @@
 
 - [react-query (🗎)](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
 
+### Microservices
+
+- [microservices-stephengrider-with-node-and-react (🗎)](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
+
 ### Next.js
 
 - [nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide (🗎)](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide)
@@ -70,6 +74,21 @@
 - [nextjs-officialwebsite-tutorial-nextjs-learn-basics](https://github.com/clarklindev/nextjs-officialwebsite-tutorial-nextjs-learn-basics)
 - [nextjs-traversymedia.git](https://github.com/clarklindev/nextjs-traversymedia.git)
 - [AWS-storing-images-in-AWS-s3 (🗎)](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide?tab=readme-ov-file#130-storing-uploaded-images-in-the-cloud-aws-s3)
+
+### Node.js
+
+- [nodejs-stephengrider-node-with-react-fullstack-web-development-passport-mongodb-stripe](https://github.com/clarklindev/nodejs-stephengrider-node-with-react-fullstack-web-development-passport-mongodb-stripe.git)
+  <br><br>
+- [nodejs-maximilianschwarzmuller-react-nodejs-express-mongodb-the-mern-fullstack-guide](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-react-nodejs-express-mongodb-the-mern-fullstack-guide)
+- [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide)
+- [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-backend](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-backend)
+- [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend.git)
+  <br><br>
+- [captainrefactor-backend](https://github.com/clarklindev/captainrefactor-backend)
+- [nodejs-swagfinger-template-generate-pdf](https://github.com/clarklindev/nodejs-swagfinger-template-generate-pdf)
+- [nodejs-template-server-api-keys](https://github.com/clarklindev/nodejs-template-server-api-keys)
+  <br><br>
+- [nodejs-traversymedia-nodejs-api-proxy-server](https://github.com/clarklindev/nodejs-traversymedia-nodejs-api-proxy-server)
 
 ### ReactNative
 
@@ -93,17 +112,6 @@
 - [golang-netninja](https://github.com/clarklindev/golang-netninja)
 - [golang-stephengrider](https://github.com/clarklindev/golang-stephengrider)
 
-### Node.js
-
-- [nodejs-stephengrider-node-with-react-fullstack-web-development](https://github.com/clarklindev/nodejs-stephengrider-node-with-react-fullstack-web-development-passport-mongodb-stripe.git)
-- [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide)
-- [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-backend](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-backend)
-- [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend.git)
-- [captainrefactor-backend](https://github.com/clarklindev/captainrefactor-backend)
-- [nodejs-swagfinger-template-generate-pdf](https://github.com/clarklindev/nodejs-swagfinger-template-generate-pdf)
-- [nodejs-template-server-api-keys](https://github.com/clarklindev/nodejs-template-server-api-keys)
-- [nodejs-traversymedia-nodejs-api-proxy-server](https://github.com/clarklindev/nodejs-traversymedia-nodejs-api-proxy-server)
-
 ### Socket.io
 
 - [socketio-robertbunch (🗎)](https://github.com/clarklindev/socketio-robertbunch)
@@ -115,11 +123,6 @@
 ### Remix
 
 - [remix-maximilianschwarzmuller-remix](https://github.com/clarklindev/remix-maximilianschwarzmuller-remix)
-
-### MongoDB
-
-- [nodejs-maximilianschwarzmuller-react-nodejs-express-mongodb-the-mern-fullstack-guide](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-react-nodejs-express-mongodb-the-mern-fullstack-guide)
-- [nodejs-stephengrider-passport-mongodb-stripe](https://github.com/clarklindev/nodejs-stephengrider-passport-mongodb-stripe)
 
 ### Typescript
 
@@ -137,10 +140,6 @@
 
 - [webpack-template](https://github.com/clarklindev/webpack-template)
 - [webpack-traversymedia-webpack-starter](https://github.com/clarklindev/webpack-traversymedia-webpack-starter)
-
-### Microservices
-
-- [microservices-stephengrider-with-node-and-react (🗎)](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
 
 ### Testing
 
