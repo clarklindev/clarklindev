@@ -43,10 +43,6 @@
 - [notes-javascript](https://github.com/clarklindev/notes-javascript.git)
 - [captainrefactor-fundamentals](https://github.com/clarklindev/captainrefactor-fundamentals)
 
-### Data-structures-and-algorithms
-
-- [data-structures-and-algorithms](https://github.com/clarklindev/data-structures-and-algorithms.git)
-
 ### angular
 
 - [notes-angular](https://github.com/clarklindev/notes-angular.git)
@@ -147,6 +143,11 @@
 - [testing-maximilianschwarzmuller-cypress (🗎)](https://github.com/clarklindev/testing-maximilianschwarzmuller-cypress)
 - [testing-netninja-react-testing-library](https://github.com/clarklindev/testing-netninja-react-testing-library)
 - [testing-stephengrider-react-testing-library-and-jest](https://github.com/clarklindev/testing-stephengrider-react-testing-library-and-jest)
+
+### Data-structures-and-algorithms
+
+- [data-structures-and-algorithms-frontendmasters-the-primeagen-the-last-algorithms-course-you-will-need](https://github.com/clarklindev/data-structures-and-algorithms-frontendmasters-the-primeagen-algorithms-course.git)
+- [data-structures-and-algorithms](https://github.com/clarklindev/data-structures-and-algorithms.git)
 
 ---
 
