@@ -111,6 +111,7 @@
 ### Socket.io
 
 - [socketio-robertbunch (🗎)](https://github.com/clarklindev/socketio-robertbunch)
+- [socketio-nextjs (🔒)](https://github.com/clarklindev/socketio-nextjs)
 
 ### webRTC
 
@@ -124,7 +125,7 @@
 
 - [typescript-maximilianschwarzmuller-understanding-typescript](https://github.com/clarklindev/typescript-maximilianschwarzmuller-understanding-typescript)
   <br><br>
-- [typescript-stephengrider-basics-of-typescript](https://github.com/clarklindev/typescript-stephengrider-basics-of-typescript)
+- [typescript-stephengrider-basics-of-typescript (🗎)](https://github.com/clarklindev/typescript-stephengrider-basics-of-typescript)
 - [typescript-stephengrider-typescript-complete-developers-guide](https://github.com/clarklindev/typescript-stephengrider-typescript-complete-developers-guide)
 - [typescript-stephengrider-typescript-portfolio](https://github.com/clarklindev/typescript-stephengrider-typescript-portfolio)
   <br><br>
