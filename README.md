@@ -1,18 +1,28 @@
-# Frontend
-
 ### Design system
+- [design-system-devUI-v3](https://github.com/clarklindev/design-system-devUI-v3.git)
+- [design-system-devUI-v2](https://github.com/clarklindev/design-system-devUI-v2-function-based.git)
+- [design-system-devUI-v1](https://github.com/clarklindev/design-system-devUI-v1-class-based.git)
+- [design-system-devUI-webpack](https://github.com/clarklindev/design-system-devUI-webpack.git)
 
-- [swagfingerUI](https://github.com/clarklindev/swagfingerUI)
-- [swagfingerUI-webpack](https://github.com/clarklindev/swagfingerUI-webpack)
+### Docker / Kubernetes
 
-### Microfrontends / Monorepo
-
-- [microfrontends-stephengrider](https://github.com/clarklindev/microfrontends-stephengrider)
-- [monorepo-example](https://github.com/clarklindev/monorepo-example)
+- [docker-stephen-grider-basics-of-docker (🗎)](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
+- [docker-kubernetes-maximilianschwarzmuller-tutorial (🗎)](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
+- [docker-kubernetes-adriancantrill](https://github.com/clarklindev/docker-kubernetes-adriancantrill)
 
 ### Threejs
 
 - [threejourney (🗎)](https://github.com/clarklindev/threejourney)
+
+### Blender
+
+- [blender-complete-blender-creator-learn-3D-modelling-for-beginners (🗎)](https://github.com/clarklindev/blender-complete-blender-creator-learn-3D-modelling-for-beginners)
+- [blender-teeth-and-gums (🗎)](https://github.com/clarklindev/blender-teeth-and-gums)
+- [blender-donut (🗎)](https://github.com/clarklindev/blender-donut)
+- [blender-GIS (🗎)](https://github.com/clarklindev/blender-GIS)
+- [blender-3d-topology-earth (🗎)](https://github.com/clarklindev/blender-3d-topology-earth)
+- [blender-fur-particle-system (🗎)](https://github.com/clarklindev/blender-fur-particle-system)
+
 
 ### React
 
@@ -43,6 +53,12 @@
 - [notes-javascript](https://github.com/clarklindev/notes-javascript.git)
 - [captainrefactor-fundamentals](https://github.com/clarklindev/captainrefactor-fundamentals)
 
+
+### Microfrontends / Monorepo
+
+- [microfrontends-stephengrider](https://github.com/clarklindev/microfrontends-stephengrider)
+- [monorepo-example](https://github.com/clarklindev/monorepo-example)
+
 ### angular
 
 - [notes-angular](https://github.com/clarklindev/notes-angular.git)
@@ -50,10 +66,6 @@
 ### Notes
 
 - [notes](https://github.com/clarklindev/notes)
-
----
-
-# Fullstack
 
 ### ReactQuery
 
@@ -150,10 +162,6 @@
 - [data-structures-and-algorithms-frontendmasters-the-primeagen-the-last-algorithms-course-you-will-need](https://github.com/clarklindev/data-structures-and-algorithms-frontendmasters-the-primeagen-algorithms-course.git)
 - [data-structures-and-algorithms](https://github.com/clarklindev/data-structures-and-algorithms.git)
 
----
-
-## Devops / Architecture
-
 ### Git
 
 - [notes-git (🗎)](https://github.com/clarklindev/git.git)
@@ -162,25 +170,3 @@
 
 - [Cloud aws (🗎)](https://github.com/clarklindev/cloud-aws.git)
 
-### Docker / Kubernetes
-
-- [docker-stephen-grider-basics-of-docker (🗎)](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
-- [docker-kubernetes-maximilianschwarzmuller-tutorial (🗎)](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
-- [docker-kubernetes-adriancantrill](https://github.com/clarklindev/docker-kubernetes-adriancantrill)
-
-### Terraform
-
-- [devops-terraform-zero-to-mastery-udemy-devops-bootcamp-terraform](https://github.com/clarklindev/devops-terraform-zero-to-mastery-udemy-devops-bootcamp-terraform)
-
----
-
-## Other
-
-### Blender
-
-- [blender-complete-blender-creator-learn-3D-modelling-for-beginners (🗎)](https://github.com/clarklindev/blender-complete-blender-creator-learn-3D-modelling-for-beginners)
-- [blender-teeth-and-gums (🗎)](https://github.com/clarklindev/blender-teeth-and-gums)
-- [blender-donut (🗎)](https://github.com/clarklindev/blender-donut)
-- [blender-GIS (🗎)](https://github.com/clarklindev/blender-GIS)
-- [blender-3d-topology-earth (🗎)](https://github.com/clarklindev/blender-3d-topology-earth)
-- [blender-fur-particle-system (🗎)](https://github.com/clarklindev/blender-fur-particle-system)
