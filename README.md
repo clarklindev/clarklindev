@@ -4,21 +4,28 @@
 - [design-system-devUI-v1(🔒)](https://github.com/clarklindev/design-system-devUI-v1-class-based.git)
 - [design-system-devUI-webpack(🔒)](https://github.com/clarklindev/design-system-devUI-webpack.git)
 
+### Socket.io
+- [socketio-robertbunch (🗎)(🔒)](https://github.com/clarklindev/socketio-robertbunch)
+- [socketio-nextjs (🔒)](https://github.com/clarklindev/socketio-nextjs)
+
 ### WebRTC
 - [webRTC-robertbunch (🗎)(🔒)](https://github.com/clarklindev/webrtc-robbertbunch)
 
-### Docker / Kubernetes
+### ReactQuery
+- [react-query (🗎)(🔒)](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
 
+### Microservices
+- [microservices-stephengrider-with-node-and-react (🗎)(🔒)](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
+
+### Docker / Kubernetes
 - [docker-stephen-grider-basics-of-docker (🗎)(🔒)](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
 - [docker-kubernetes-maximilianschwarzmuller-tutorial (🗎)(🔒)](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
 - [docker-kubernetes-adriancantrill(🔒)](https://github.com/clarklindev/docker-kubernetes-adriancantrill)
 
 ### Threejs
-
 - [threejourney (🗎)(🔒)](https://github.com/clarklindev/threejourney)
 
 ### Blender
-
 - [blender-complete-blender-creator-learn-3D-modelling-for-beginners (🗎)(🔒)](https://github.com/clarklindev/blender-complete-blender-creator-learn-3D-modelling-for-beginners)
 - [blender-teeth-and-gums (🗎)(🔒)](https://github.com/clarklindev/blender-teeth-and-gums)
 - [blender-donut (🗎)(🔒)](https://github.com/clarklindev/blender-donut)
@@ -26,60 +33,7 @@
 - [blender-3d-topology-earth (🗎)(🔒)](https://github.com/clarklindev/blender-3d-topology-earth)
 - [blender-fur-particle-system (🗎)(🔒)](https://github.com/clarklindev/blender-fur-particle-system)
 
-
-### React
-
-- [notes-react(🔒)](https://github.com/clarklindev/notes-react)
-- [react-materialui(🔒)](https://github.com/clarklindev/react-materialui)
-- [react-maximilianschwarzmuller-udemy-react (🗎)(🔒)](https://github.com/clarklindev/react-maximilianschwarzmuller-udemy-react)
-- [react-renderprops(🔒)](https://github.com/clarklindev/react-renderprops)
-- [react-router-5 (🗎)(🔒)](https://github.com/clarklindev/react-router-5)
-- [react-router-6 (🗎)(🔒)](https://github.com/clarklindev/react-router-6)
-- [react-swagfinger-components-classbased(🔒)](https://github.com/clarklindev/react-swagfinger-components-classbased)
-- [react-swagfinger-components-functionbased(🔒)](https://github.com/clarklindev/react-swagfinger-components-functionbased)
-- [react-swagfinger-portfolio-dentalquote(🔒)]()
-- [react-table(🔒)](https://github.com/clarklindev/react-table)
-
-### CSS + tailwind
-
-- [css-template-css-grid(🔒)](https://github.com/clarklindev/css-template-css-grid)
-- [scss-flexbox-grid(🔒)](https://github.com/clarklindev/scss-flexbox-grid)
-- [swagfinger-working-with-fonts(🔒)](https://github.com/clarklindev/swagfinger-working-with-fonts)
-- [notes-css(🔒)](https://github.com/clarklindev/notes-css)
-- [tailwindcss-adamwathan(🔒)](https://github.com/clarklindev/tailwindcss-adamwathan)
-- [tailwindcss-netninja-tailwindcss (🗎)(🔒)](https://github.com/clarklindev/tailwindcss-netninja-tailwindcss)
-
-### Javascript
-
-- [javascript-swagfinger-component-js-datepicker(🔒)](https://github.com/clarklindev/javascript-swagfinger-component-js-datepicker)
-- [javascript-swagfinger-component-upload(🔒)](https://github.com/clarklindev/javascript-swagfinger-component-upload)
-- [notes-javascript(🔒)](https://github.com/clarklindev/notes-javascript.git)
-- [captainrefactor-fundamentals(🔒)](https://github.com/clarklindev/captainrefactor-fundamentals)
-
-
-### Microfrontends / Monorepo
-
-- [microfrontends-stephengrider(🔒)](https://github.com/clarklindev/microfrontends-stephengrider)
-- [monorepo-example(🔒)](https://github.com/clarklindev/monorepo-example)
-
-### angular
-
-- [notes-angular(🔒)](https://github.com/clarklindev/notes-angular.git)
-
-### Notes
-
-- [notes(🔒)](https://github.com/clarklindev/notes)
-
-### ReactQuery
-
-- [react-query (🗎)(🔒)](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
-
-### Microservices
-
-- [microservices-stephengrider-with-node-and-react (🗎)(🔒)](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
-
 ### Next.js
-
 - [nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide (🗎)(🔒)](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide)
 - [nextjs-netninja(🔒)](https://github.com/clarklindev/nextjs-netninja)
 - [nextjs-officialwebsite-tutorial-nextjs-learn-basics(🔒)](https://github.com/clarklindev/nextjs-officialwebsite-tutorial-nextjs-learn-basics)
@@ -100,6 +54,54 @@
 - [nodejs-template-server-api-keys(🔒)](https://github.com/clarklindev/nodejs-template-server-api-keys)
   <br><br>
 - [nodejs-traversymedia-nodejs-api-proxy-server(🔒)](https://github.com/clarklindev/nodejs-traversymedia-nodejs-api-proxy-server)
+
+### React
+- [notes-react(🔒)](https://github.com/clarklindev/notes-react)
+- [react-materialui(🔒)](https://github.com/clarklindev/react-materialui)
+- [react-maximilianschwarzmuller-udemy-react (🗎)(🔒)](https://github.com/clarklindev/react-maximilianschwarzmuller-udemy-react)
+- [react-renderprops(🔒)](https://github.com/clarklindev/react-renderprops)
+- [react-router-5 (🗎)(🔒)](https://github.com/clarklindev/react-router-5)
+- [react-router-6 (🗎)(🔒)](https://github.com/clarklindev/react-router-6)
+- [react-swagfinger-components-classbased(🔒)](https://github.com/clarklindev/react-swagfinger-components-classbased)
+- [react-swagfinger-components-functionbased(🔒)](https://github.com/clarklindev/react-swagfinger-components-functionbased)
+- [react-swagfinger-portfolio-dentalquote(🔒)]()
+- [react-table(🔒)](https://github.com/clarklindev/react-table)
+
+### CSS + tailwind
+- [css-template-css-grid(🔒)](https://github.com/clarklindev/css-template-css-grid)
+- [scss-flexbox-grid(🔒)](https://github.com/clarklindev/scss-flexbox-grid)
+- [swagfinger-working-with-fonts(🔒)](https://github.com/clarklindev/swagfinger-working-with-fonts)
+- [notes-css(🔒)](https://github.com/clarklindev/notes-css)
+- [tailwindcss-adamwathan(🔒)](https://github.com/clarklindev/tailwindcss-adamwathan)
+- [tailwindcss-netninja-tailwindcss (🗎)(🔒)](https://github.com/clarklindev/tailwindcss-netninja-tailwindcss)
+
+### Javascript
+- [javascript-swagfinger-component-js-datepicker(🔒)](https://github.com/clarklindev/javascript-swagfinger-component-js-datepicker)
+- [javascript-swagfinger-component-upload(🔒)](https://github.com/clarklindev/javascript-swagfinger-component-upload)
+- [notes-javascript(🔒)](https://github.com/clarklindev/notes-javascript.git)
+- [captainrefactor-fundamentals(🔒)](https://github.com/clarklindev/captainrefactor-fundamentals)
+
+### Typescript
+
+- [typescript-maximilianschwarzmuller-understanding-typescript(🔒)](https://github.com/clarklindev/typescript-maximilianschwarzmuller-understanding-typescript)
+  <br><br>
+- [typescript-stephengrider-basics-of-typescript (🗎)(🔒)](https://github.com/clarklindev/typescript-stephengrider-basics-of-typescript)
+- [typescript-stephengrider-typescript-complete-developers-guide(🔒)](https://github.com/clarklindev/typescript-stephengrider-typescript-complete-developers-guide)
+- [typescript-stephengrider-typescript-portfolio(🔒)](https://github.com/clarklindev/typescript-stephengrider-typescript-portfolio)
+  <br><br>
+- [typescript-codevolution-react-typescript-tutorial-for-beginners (🗎)(🔒)](https://github.com/clarklindev/typescript-codevolution-react-typescript-tutorial-for-beginners)
+  <br><br>
+- [typescript-swagfinger-template-typescript(🔒)](https://github.com/clarklindev/typescript-swagfinger-template-typescript)
+
+### Microfrontends / Monorepo
+- [microfrontends-stephengrider(🔒)](https://github.com/clarklindev/microfrontends-stephengrider)
+- [monorepo-example(🔒)](https://github.com/clarklindev/monorepo-example)
+
+### angular
+- [notes-angular(🔒)](https://github.com/clarklindev/notes-angular.git)
+
+### Notes
+- [notes(🔒)](https://github.com/clarklindev/notes)
 
 ### ReactNative
 
@@ -123,30 +125,10 @@
 - [golang-netninja(🔒)](https://github.com/clarklindev/golang-netninja)
 - [golang-stephengrider(🔒)](https://github.com/clarklindev/golang-stephengrider)
 
-### Socket.io
-
-- [socketio-robertbunch (🗎)(🔒)](https://github.com/clarklindev/socketio-robertbunch)
-- [socketio-nextjs (🔒)](https://github.com/clarklindev/socketio-nextjs)
-
-### webRTC
-
-- [webrtc-robbertbunch(🔒)](https://github.com/clarklindev/webrtc-robbertbunch)
-
 ### Remix
 
 - [remix-maximilianschwarzmuller-remix(🔒)](https://github.com/clarklindev/remix-maximilianschwarzmuller-remix)
 
-### Typescript
-
-- [typescript-maximilianschwarzmuller-understanding-typescript(🔒)](https://github.com/clarklindev/typescript-maximilianschwarzmuller-understanding-typescript)
-  <br><br>
-- [typescript-stephengrider-basics-of-typescript (🗎)(🔒)](https://github.com/clarklindev/typescript-stephengrider-basics-of-typescript)
-- [typescript-stephengrider-typescript-complete-developers-guide(🔒)](https://github.com/clarklindev/typescript-stephengrider-typescript-complete-developers-guide)
-- [typescript-stephengrider-typescript-portfolio(🔒)](https://github.com/clarklindev/typescript-stephengrider-typescript-portfolio)
-  <br><br>
-- [typescript-codevolution-react-typescript-tutorial-for-beginners (🗎)(🔒)](https://github.com/clarklindev/typescript-codevolution-react-typescript-tutorial-for-beginners)
-  <br><br>
-- [typescript-swagfinger-template-typescript(🔒)](https://github.com/clarklindev/typescript-swagfinger-template-typescript)
 
 ### Webpack
 
