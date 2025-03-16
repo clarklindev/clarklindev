@@ -125,11 +125,6 @@
 - [golang-netninja(🔒)](https://github.com/clarklindev/golang-netninja)
 - [golang-stephengrider(🔒)](https://github.com/clarklindev/golang-stephengrider)
 
-### Remix
-s
-- [remix-maximilianschwarzmuller-remix(🔒)](https://github.com/clarklindev/remix-maximilianschwarzmuller-remix)
-
-
 ### Webpack
 
 - [webpack-template(🔒)](https://github.com/clarklindev/webpack-template)
