@@ -79,7 +79,6 @@
 ### Javascript
 - [javascript-swagfinger-component-js-datepicker(🔒)](https://github.com/clarklindev/javascript-swagfinger-component-js-datepicker)
 - [javascript-swagfinger-component-upload(🔒)](https://github.com/clarklindev/javascript-swagfinger-component-upload)
-- [notes-javascript(🔒)](https://github.com/clarklindev/notes-javascript.git)
 - [captainrefactor-fundamentals(🔒)](https://github.com/clarklindev/captainrefactor-fundamentals)
 
 ### Typescript
@@ -127,7 +126,7 @@
 - [golang-stephengrider(🔒)](https://github.com/clarklindev/golang-stephengrider)
 
 ### Remix
-
+s
 - [remix-maximilianschwarzmuller-remix(🔒)](https://github.com/clarklindev/remix-maximilianschwarzmuller-remix)
 
 
