@@ -17,11 +17,11 @@
 - [react-query (🗎)(🔒)](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
 
 ### Microservices
-- [microservices-stephengrider-with-node-and-react (🗎)(🔒)](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
+- [microservices-stephengrider-with-node-and-react (🗎)](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
 
 ### Docker / Kubernetes
-- [docker-stephen-grider-basics-of-docker (🗎)(🔒)](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
-- [docker-kubernetes-maximilianschwarzmuller-tutorial (🗎)(🔒)](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
+- [docker-stephen-grider-basics-of-docker (🗎)](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
+- [docker-kubernetes-maximilianschwarzmuller-tutorial (🗎)](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
 - [docker-kubernetes-adriancantrill(🔒)](https://github.com/clarklindev/docker-kubernetes-adriancantrill)
 
 ### Threejs
