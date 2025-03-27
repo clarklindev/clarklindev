@@ -1,5 +1,5 @@
 ### Design system
-- [fightclubUI(🔒)](https://github.com/clarklindev/design-system-fightclubUI.git)
+- [fightclubUI](https://github.com/clarklindev/design-system-fightclubUI.git)
 - [design-system-devUI-v2(🔒)](https://github.com/clarklindev/design-system-devUI-v2-function-based.git)
 - [design-system-devUI-v1(🔒)](https://github.com/clarklindev/design-system-devUI-v1-class-based.git)
 - [design-system-devUI-webpack(🔒)](https://github.com/clarklindev/design-system-devUI-webpack.git)
