@@ -1,5 +1,5 @@
 ### Design system
-- [fightclubUI(🔒)](https://github.com/clarklindev/design-system-fightclubUI.git)
+- [fightclubUI](https://github.com/clarklindev/design-system-fightclubUI.git)
 - [design-system-devUI-v2(🔒)](https://github.com/clarklindev/design-system-devUI-v2-function-based.git)
 - [design-system-devUI-v1(🔒)](https://github.com/clarklindev/design-system-devUI-v1-class-based.git)
 - [design-system-devUI-webpack(🔒)](https://github.com/clarklindev/design-system-devUI-webpack.git)
@@ -17,11 +17,11 @@
 - [react-query (🗎)(🔒)](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
 
 ### Microservices
-- [microservices-stephengrider-with-node-and-react (🗎)(🔒)](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
+- [microservices-stephengrider-with-node-and-react (🗎)](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
 
 ### Docker / Kubernetes
-- [docker-stephen-grider-basics-of-docker (🗎)(🔒)](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
-- [docker-kubernetes-maximilianschwarzmuller-tutorial (🗎)(🔒)](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
+- [docker-stephen-grider-basics-of-docker (🗎)](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
+- [docker-kubernetes-maximilianschwarzmuller-tutorial (🗎)](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
 - [docker-kubernetes-adriancantrill(🔒)](https://github.com/clarklindev/docker-kubernetes-adriancantrill)
 
 ### Threejs
