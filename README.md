@@ -49,7 +49,7 @@
 
 -   [nextjs-stephengrider-nextjs-the-complete-guide-01](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-01)
 -   [nextjs-stephengrider-nextjs-the-complete-guide-02-03-04-05](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-02-03-04-05-snippets.git)
-
+-   [nextjs-stephengrider-nextjs-the-complete-guide-07-08-09-10](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-07-08-09-10-discuss-auth-db-memoization-search)
 -   [nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide (🗎)(🔒)](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide)
 -   [nextjs-netninja(🔒)](https://github.com/clarklindev/nextjs-netninja)
 -   [nextjs-officialwebsite-tutorial-nextjs-learn-basics(🔒)](https://github.com/clarklindev/nextjs-officialwebsite-tutorial-nextjs-learn-basics)
