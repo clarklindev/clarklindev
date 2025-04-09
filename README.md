@@ -9,7 +9,7 @@
 
 ### Socket.io
 
--   [socketio-robertbunch (🗎)(🔒)](https://github.com/clarklindev/socketio-robertbunch)
+-   [socketio-robertbunch (🗎)](https://github.com/clarklindev/socketio-robertbunch)
 -   [socketio-nextjs (🔒)](https://github.com/clarklindev/socketio-nextjs)
 
 ### WebRTC
@@ -34,22 +34,22 @@
 
 ### Threejs
 
--   [threejourney (🗎)(🔒)](https://github.com/clarklindev/threejourney)
+-   [threejourney (🗎)](https://github.com/clarklindev/threejourney)
 
 ### Blender
 
--   [blender-complete-blender-creator-learn-3D-modelling-for-beginners (🗎)(🔒)](https://github.com/clarklindev/blender-complete-blender-creator-learn-3D-modelling-for-beginners)
+-   [blender-complete-blender-creator-learn-3D-modelling-for-beginners (🗎)](https://github.com/clarklindev/blender-complete-blender-creator-learn-3D-modelling-for-beginners)
+-   [blender-donut (🗎)](https://github.com/clarklindev/blender-donut)
+-   [blender-fur-particle-system (🗎)](https://github.com/clarklindev/blender-fur-particle-system)
 -   [blender-teeth-and-gums (🗎)(🔒)](https://github.com/clarklindev/blender-teeth-and-gums)
--   [blender-donut (🗎)(🔒)](https://github.com/clarklindev/blender-donut)
 -   [blender-GIS (🗎)(🔒)](https://github.com/clarklindev/blender-GIS)
 -   [blender-3d-topology-earth (🗎)(🔒)](https://github.com/clarklindev/blender-3d-topology-earth)
--   [blender-fur-particle-system (🗎)(🔒)](https://github.com/clarklindev/blender-fur-particle-system)
 
 ### Next.js
 
 -   [nextjs-stephengrider-nextjs-the-complete-guide-01](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-01)
 -   [nextjs-stephengrider-nextjs-the-complete-guide-02-03-04-05](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-02-03-04-05-snippets.git)
--   [nextjs-stephengrider-nextjs-the-complete-guide-07-08-09-10](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-07-08-09-10-discuss-auth-db-memoization-search)
+-   [nextjs-stephengrider-nextjs-the-complete-guide-07-08-09-10](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-07-08-09-10-discuss-auth-db-memoization-search) <br><br>
 -   [nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide (🗎)(🔒)](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide)
 -   [nextjs-netninja(🔒)](https://github.com/clarklindev/nextjs-netninja)
 -   [nextjs-officialwebsite-tutorial-nextjs-learn-basics(🔒)](https://github.com/clarklindev/nextjs-officialwebsite-tutorial-nextjs-learn-basics)
@@ -99,8 +99,8 @@
 
 ### Typescript
 
+-   [typescript-stephengrider-basics-of-typescript (🗎)](https://github.com/clarklindev/typescript-stephengrider-basics-of-typescript)
 -   [typescript-maximilianschwarzmuller-understanding-typescript(🔒)](https://github.com/clarklindev/typescript-maximilianschwarzmuller-understanding-typescript) <br><br>
--   [typescript-stephengrider-basics-of-typescript (🗎)(🔒)](https://github.com/clarklindev/typescript-stephengrider-basics-of-typescript)
 -   [typescript-stephengrider-typescript-complete-developers-guide(🔒)](https://github.com/clarklindev/typescript-stephengrider-typescript-complete-developers-guide)
 -   [typescript-stephengrider-typescript-portfolio(🔒)](https://github.com/clarklindev/typescript-stephengrider-typescript-portfolio) <br><br>
 -   [typescript-codevolution-react-typescript-tutorial-for-beginners (🗎)(🔒)](https://github.com/clarklindev/typescript-codevolution-react-typescript-tutorial-for-beginners) <br><br>
