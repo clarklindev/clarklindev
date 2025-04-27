@@ -20,7 +20,7 @@
 
 ### ReactQuery
 
--   [react-query (🗎)(🔒)](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
+-   [react-query (🗎)](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
 
 ### Microservices
 
