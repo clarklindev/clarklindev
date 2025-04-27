@@ -10,7 +10,7 @@
 ### Socket.io
 
 -   [socketio-robertbunch (🗎)](https://github.com/clarklindev/socketio-robertbunch)
--   [socketio-nextjs (🔒)](https://github.com/clarklindev/socketio-nextjs)
+-   [socketio-nextjs](https://github.com/clarklindev/socketio-nextjs)
 
 ### WebRTC
 
