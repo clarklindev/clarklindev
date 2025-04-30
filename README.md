@@ -164,4 +164,4 @@
 
 ### AWS
 
--   [Cloud aws (🗎)(🔒)](https://github.com/clarklindev/cloud-aws.git)
+-   [Cloud aws (🗎)](https://github.com/clarklindev/cloud-aws.git)
