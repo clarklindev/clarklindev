@@ -130,7 +130,7 @@
 
 ### PostgreSQL
 
--   [postgresql-stephengrider-postgresql (🗎)(🔒)](https://github.com/clarklindev/postgresql-stephengrider-postgresql)
+-   [postgresql-stephengrider-postgresql (🗎)](https://github.com/clarklindev/postgresql-stephengrider-postgresql)
 
 ### Authentication
 
