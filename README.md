@@ -155,7 +155,6 @@
 
 ### Data-structures-and-algorithms
 
--   [data-structures-and-algorithms-frontendmasters-the-primeagen-the-last-algorithms-course-you-will-need(🔒)](https://github.com/clarklindev/data-structures-and-algorithms-frontendmasters-the-primeagen-algorithms-course.git)
 -   [data-structures-and-algorithms(🔒)](https://github.com/clarklindev/data-structures-and-algorithms.git)
 
 ### Git
