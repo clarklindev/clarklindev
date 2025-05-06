@@ -47,7 +47,6 @@
 -   [scss-flexbox-grid](https://github.com/clarklindev/scss-flexbox-grid)
 -   [swagfinger-working-with-fonts](https://github.com/clarklindev/swagfinger-working-with-fonts)
 -   [notes-css](https://github.com/clarklindev/notes-css)
--   [tailwindcss-adamwathan](https://github.com/clarklindev/tailwindcss-adamwathan)
 -   [tailwindcss-netninja-tailwindcss (🗎)](https://github.com/clarklindev/tailwindcss-netninja-tailwindcss)
 
 ### Javascript
