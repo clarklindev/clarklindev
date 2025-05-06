@@ -30,12 +30,12 @@
 
 ### React
 
--   [notes-react(🔒)](https://github.com/clarklindev/notes-react)
+-   [notes-react](https://github.com/clarklindev/notes-react)
 -   [react-materialui(🔒)](https://github.com/clarklindev/react-materialui)
 -   [react-maximilianschwarzmuller-udemy-react (🗎)(🔒)](https://github.com/clarklindev/react-maximilianschwarzmuller-udemy-react)
 -   [react-renderprops(🔒)](https://github.com/clarklindev/react-renderprops)
--   [react-router-5 (🗎)(🔒)](https://github.com/clarklindev/react-router-5)
--   [react-router-6 (🗎)(🔒)](https://github.com/clarklindev/react-router-6)
+-   [react-router-5 (🗎)](https://github.com/clarklindev/react-router-5)
+-   [react-router-6 (🗎)](https://github.com/clarklindev/react-router-6)
 -   [react-swagfinger-components-classbased(🔒)](https://github.com/clarklindev/react-swagfinger-components-classbased)
 -   [react-swagfinger-components-functionbased(🔒)](https://github.com/clarklindev/react-swagfinger-components-functionbased)
 -   [react-swagfinger-portfolio-dentalquote(🔒)]()
