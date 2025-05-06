@@ -1,3 +1,11 @@
+## Notes
+
+-   [notes](https://github.com/clarklindev/notes)
+
+---
+
+## Frontend
+
 ### Design system
 
 -   [basic vite component library setup](https://github.com/clarklindev/vite-lib)
@@ -6,31 +14,6 @@
 -   [design-system-devUI-v2(🔒)](https://github.com/clarklindev/design-system-devUI-v2-function-based.git)
 -   [design-system-devUI-v1(🔒)](https://github.com/clarklindev/design-system-devUI-v1-class-based.git)
 -   [design-system-devUI-webpack(🔒)](https://github.com/clarklindev/design-system-devUI-webpack.git)
-
-### Socket.io
-
--   [socketio-robertbunch (🗎)](https://github.com/clarklindev/socketio-robertbunch)
--   [socketio-nextjs](https://github.com/clarklindev/socketio-nextjs)
-
-### WebRTC
-
--   [webRTC-robertbunch (🗎)(🔒)](https://github.com/clarklindev/webrtc-robbertbunch)
--   [webrtc-robbertbunch-react-starter(🗎)](https://github.com/clarklindev/webrtc-robbertbunch-react-starter)
--   [webRTC-robertbunch-starter (🗎)](https://github.com/clarklindev/webrtc-robbertbunch-starter)
-
-### ReactQuery
-
--   [react-query (🗎)](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
-
-### Microservices
-
--   [microservices-stephengrider-with-node-and-react (🗎)](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
-
-### Docker / Kubernetes
-
--   [docker-stephen-grider-basics-of-docker (🗎)](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
--   [docker-kubernetes-maximilianschwarzmuller-tutorial (🗎)](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
--   [docker-kubernetes-adriancantrill(🔒)](https://github.com/clarklindev/docker-kubernetes-adriancantrill)
 
 ### Threejs
 
@@ -44,30 +27,6 @@
 -   [blender-teeth-and-gums (🗎)](https://github.com/clarklindev/blender-teeth-and-gums)
 -   [blender-GIS (🗎)](https://github.com/clarklindev/blender-GIS)
 -   [blender-3d-topology-earth (🗎)](https://github.com/clarklindev/blender-3d-topology-earth)
-
-### Next.js
-
--   [nextjs-stephengrider-nextjs-the-complete-guide-01](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-01)
--   [nextjs-stephengrider-nextjs-the-complete-guide-02-03-04-05](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-02-03-04-05-snippets.git)
--   [nextjs-stephengrider-nextjs-the-complete-guide-07-08-09-10](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-07-08-09-10-discuss-auth-db-memoization-search) <br><br>
--   [nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide (🗎)(🔒)](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide)
--   [nextjs-netninja(🔒)](https://github.com/clarklindev/nextjs-netninja)
--   [nextjs-officialwebsite-tutorial-nextjs-learn-basics(🔒)](https://github.com/clarklindev/nextjs-officialwebsite-tutorial-nextjs-learn-basics)
--   [nextjs-traversymedia.git(🔒)](https://github.com/clarklindev/nextjs-traversymedia.git)
--   [AWS-storing-images-in-AWS-s3 (🗎)(🔒)](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide?tab=readme-ov-file#130-storing-uploaded-images-in-the-cloud-aws-s3)
-
-### Node.js
-
--   [nodejs-stephengrider-node-with-react-fullstack-web-development-passport-mongodb-stripe(🔒)](https://github.com/clarklindev/nodejs-stephengrider-node-with-react-fullstack-web-development-passport-mongodb-stripe.git)
-    <br><br>
--   [nodejs-maximilianschwarzmuller-react-nodejs-express-mongodb-the-mern-fullstack-guide(🔒)](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-react-nodejs-express-mongodb-the-mern-fullstack-guide)
--   [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide(🔒)](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide)
--   [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-backend(🔒)](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-backend)
--   [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend(🔒)](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend.git) <br><br>
--   [captainrefactor-backend(🔒)](https://github.com/clarklindev/captainrefactor-backend)
--   [nodejs-swagfinger-template-generate-pdf(🔒)](https://github.com/clarklindev/nodejs-swagfinger-template-generate-pdf)
--   [nodejs-template-server-api-keys(🔒)](https://github.com/clarklindev/nodejs-template-server-api-keys) <br><br>
--   [nodejs-traversymedia-nodejs-api-proxy-server(🔒)](https://github.com/clarklindev/nodejs-traversymedia-nodejs-api-proxy-server)
 
 ### React
 
@@ -97,23 +56,71 @@
 -   [javascript-swagfinger-component-upload(🔒)](https://github.com/clarklindev/javascript-swagfinger-component-upload)
 -   [captainrefactor-fundamentals(🔒)](https://github.com/clarklindev/captainrefactor-fundamentals)
 
-### Typescript
-
--   [typescript-stephengrider-basics-of-typescript (🗎)](https://github.com/clarklindev/typescript-stephengrider-basics-of-typescript)
--   [typescript-maximilianschwarzmuller-understanding-typescript(🔒)](https://github.com/clarklindev/typescript-maximilianschwarzmuller-understanding-typescript) <br><br>
--   [typescript-stephengrider-typescript-complete-developers-guide(🔒)](https://github.com/clarklindev/typescript-stephengrider-typescript-complete-developers-guide)
--   [typescript-stephengrider-typescript-portfolio(🔒)](https://github.com/clarklindev/typescript-stephengrider-typescript-portfolio) <br><br>
--   [typescript-codevolution-react-typescript-tutorial-for-beginners (🗎)(🔒)](https://github.com/clarklindev/typescript-codevolution-react-typescript-tutorial-for-beginners) <br><br>
--   [typescript-swagfinger-template-typescript(🔒)](https://github.com/clarklindev/typescript-swagfinger-template-typescript)
-
 ### Microfrontends / Monorepo
 
 -   [microfrontends-stephengrider(🔒)](https://github.com/clarklindev/microfrontends-stephengrider)
 -   [monorepo-example(🔒)](https://github.com/clarklindev/monorepo-example)
 
-### Notes
+---
 
--   [notes(🔒)](https://github.com/clarklindev/notes)
+## Fullstack
+
+### Socketio
+
+-   [socketio-robertbunch (🗎)](https://github.com/clarklindev/socketio-robertbunch)
+-   [socketio-nextjs](https://github.com/clarklindev/socketio-nextjs)
+
+### WebRTC
+
+-   [webRTC-robertbunch (🗎)(🔒)](https://github.com/clarklindev/webrtc-robbertbunch)
+-   [webrtc-robbertbunch-react-starter(🗎)](https://github.com/clarklindev/webrtc-robbertbunch-react-starter)
+-   [webRTC-robertbunch-starter (🗎)](https://github.com/clarklindev/webrtc-robbertbunch-starter)
+
+### ReactQuery
+
+-   [react-query (🗎)](https://github.com/clarklindev/react-query-tanstack-react-query-react-server-side-state-management)
+
+### Microservices
+
+-   [microservices-stephengrider-with-node-and-react (🗎)](https://github.com/clarklindev/microservices-stephengrider-with-node-and-react)
+
+### Docker / Kubernetes
+
+-   [docker-stephen-grider-basics-of-docker (🗎)](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
+-   [docker-kubernetes-maximilianschwarzmuller-tutorial (🗎)](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
+-   [docker-kubernetes-adriancantrill(🔒)](https://github.com/clarklindev/docker-kubernetes-adriancantrill)
+
+### Next.js
+
+-   [nextjs-stephengrider-nextjs-the-complete-guide-01](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-01)
+-   [nextjs-stephengrider-nextjs-the-complete-guide-02-03-04-05](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-02-03-04-05-snippets.git)
+-   [nextjs-stephengrider-nextjs-the-complete-guide-07-08-09-10](https://github.com/clarklindev/nextjs-stephen-grider-complete-developers-guide-07-08-09-10-discuss-auth-db-memoization-search)
+-   [nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide (🗎)(🔒)](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide)
+-   [nextjs-netninja(🔒)](https://github.com/clarklindev/nextjs-netninja)
+-   [nextjs-officialwebsite-tutorial-nextjs-learn-basics(🔒)](https://github.com/clarklindev/nextjs-officialwebsite-tutorial-nextjs-learn-basics)
+-   [nextjs-traversymedia.git(🔒)](https://github.com/clarklindev/nextjs-traversymedia.git)
+-   [AWS-storing-images-in-AWS-s3 (🗎)(🔒)](https://github.com/clarklindev/nextjs-maximilianschwarzmuller-nextjs14-and-react-the-complete-guide?tab=readme-ov-file#130-storing-uploaded-images-in-the-cloud-aws-s3)
+
+### Node.js
+
+-   [nodejs-stephengrider-node-with-react-fullstack-web-development-passport-mongodb-stripe(🔒)](https://github.com/clarklindev/nodejs-stephengrider-node-with-react-fullstack-web-development-passport-mongodb-stripe.git)
+-   [nodejs-maximilianschwarzmuller-react-nodejs-express-mongodb-the-mern-fullstack-guide(🔒)](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-react-nodejs-express-mongodb-the-mern-fullstack-guide)
+-   [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide(🔒)](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide)
+-   [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-backend(🔒)](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-backend)
+-   [nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend(🔒)](https://github.com/clarklindev/nodejs-maximilianschwarzmuller-nodejs-the-complete-guide-frontend.git)
+-   [captainrefactor-backend(🔒)](https://github.com/clarklindev/captainrefactor-backend)
+-   [nodejs-swagfinger-template-generate-pdf(🔒)](https://github.com/clarklindev/nodejs-swagfinger-template-generate-pdf)
+-   [nodejs-template-server-api-keys(🔒)](https://github.com/clarklindev/nodejs-template-server-api-keys)
+-   [nodejs-traversymedia-nodejs-api-proxy-server(🔒)](https://github.com/clarklindev/nodejs-traversymedia-nodejs-api-proxy-server)
+
+### Typescript
+
+-   [typescript-stephengrider-basics-of-typescript (🗎)](https://github.com/clarklindev/typescript-stephengrider-basics-of-typescript)
+-   [typescript-maximilianschwarzmuller-understanding-typescript(🔒)](https://github.com/clarklindev/typescript-maximilianschwarzmuller-understanding-typescript)
+-   [typescript-stephengrider-typescript-complete-developers-guide(🔒)](https://github.com/clarklindev/typescript-stephengrider-typescript-complete-developers-guide)
+-   [typescript-stephengrider-typescript-portfolio(🔒)](https://github.com/clarklindev/typescript-stephengrider-typescript-portfolio)
+-   [typescript-codevolution-react-typescript-tutorial-for-beginners (🗎)(🔒)](https://github.com/clarklindev/typescript-codevolution-react-typescript-tutorial-for-beginners)
+-   [typescript-swagfinger-template-typescript(🔒)](https://github.com/clarklindev/typescript-swagfinger-template-typescript)
 
 ### ReactNative
 
@@ -132,11 +139,6 @@
 
 -   [authentication(🔒)](https://github.com/clarklindev/authentication)
 
-### Golang
-
--   [golang-netninja(🔒)](https://github.com/clarklindev/golang-netninja)
--   [golang-stephengrider(🔒)](https://github.com/clarklindev/golang-stephengrider)
-
 ### Webpack
 
 -   [webpack-template(🔒)](https://github.com/clarklindev/webpack-template)
@@ -148,10 +150,6 @@
 -   [testing-maximilianschwarzmuller-cypress (🗎)(🔒)](https://github.com/clarklindev/testing-maximilianschwarzmuller-cypress)
 -   [testing-netninja-react-testing-library(🔒)](https://github.com/clarklindev/testing-netninja-react-testing-library)
 -   [testing-stephengrider-react-testing-library-and-jest(🔒)](https://github.com/clarklindev/testing-stephengrider-react-testing-library-and-jest)
-
-### Data-structures-and-algorithms
-
--   [data-structures-and-algorithms(🔒)](https://github.com/clarklindev/data-structures-and-algorithms.git)
 
 ### Git
 
