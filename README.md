@@ -160,7 +160,7 @@
 
 ### Git
 
--   [notes-git (🗎)(🔒)](https://github.com/clarklindev/git.git)
+-   [notes-git (🗎)](https://github.com/clarklindev/git.git)
 
 ### AWS
 
