@@ -43,7 +43,7 @@
 -   [blender-fur-particle-system (🗎)](https://github.com/clarklindev/blender-fur-particle-system)
 -   [blender-teeth-and-gums (🗎)](https://github.com/clarklindev/blender-teeth-and-gums)
 -   [blender-GIS (🗎)](https://github.com/clarklindev/blender-GIS)
--   [blender-3d-topology-earth (🗎)(🔒)](https://github.com/clarklindev/blender-3d-topology-earth)
+-   [blender-3d-topology-earth (🗎)](https://github.com/clarklindev/blender-3d-topology-earth)
 
 ### Next.js
 
