@@ -111,10 +111,6 @@
 -   [microfrontends-stephengrider(🔒)](https://github.com/clarklindev/microfrontends-stephengrider)
 -   [monorepo-example(🔒)](https://github.com/clarklindev/monorepo-example)
 
-### angular
-
--   [notes-angular(🔒)](https://github.com/clarklindev/notes-angular.git)
-
 ### Notes
 
 -   [notes(🔒)](https://github.com/clarklindev/notes)
