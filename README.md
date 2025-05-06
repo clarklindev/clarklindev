@@ -41,8 +41,8 @@
 -   [blender-complete-blender-creator-learn-3D-modelling-for-beginners (🗎)](https://github.com/clarklindev/blender-complete-blender-creator-learn-3D-modelling-for-beginners)
 -   [blender-donut (🗎)](https://github.com/clarklindev/blender-donut)
 -   [blender-fur-particle-system (🗎)](https://github.com/clarklindev/blender-fur-particle-system)
--   [blender-teeth-and-gums (🗎)(🔒)](https://github.com/clarklindev/blender-teeth-and-gums)
--   [blender-GIS (🗎)(🔒)](https://github.com/clarklindev/blender-GIS)
+-   [blender-teeth-and-gums (🗎)](https://github.com/clarklindev/blender-teeth-and-gums)
+-   [blender-GIS (🗎)](https://github.com/clarklindev/blender-GIS)
 -   [blender-3d-topology-earth (🗎)(🔒)](https://github.com/clarklindev/blender-3d-topology-earth)
 
 ### Next.js
