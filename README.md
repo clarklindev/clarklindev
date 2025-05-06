@@ -87,7 +87,6 @@
 
 -   [docker-stephen-grider-basics-of-docker (🗎)](https://github.com/clarklindev/docker-stephen-grider-basics-of-docker)
 -   [docker-kubernetes-maximilianschwarzmuller-tutorial (🗎)](https://github.com/clarklindev/docker-kubernetes-maximilianschwarzmuller-tutorial)
--   [docker-kubernetes-adriancantrill](https://github.com/clarklindev/docker-kubernetes-adriancantrill)
 
 ### Next.js
 
@@ -148,7 +147,6 @@
 -   [testing-vitest](https://github.com/clarklindev/testing-vitetest.git)
 -   [testing-maximilianschwarzmuller-cypress (🗎)](https://github.com/clarklindev/testing-maximilianschwarzmuller-cypress)
 -   [testing-netninja-react-testing-library](https://github.com/clarklindev/testing-netninja-react-testing-library)
--   [testing-stephengrider-react-testing-library-and-jest](https://github.com/clarklindev/testing-stephengrider-react-testing-library-and-jest)
 
 ### Git
 
