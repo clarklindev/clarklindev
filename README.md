@@ -5,6 +5,7 @@
 - https://tailwindcss-loopstudios.vercel.app/
 - https://nextjs-ecommerce-clarklindev.vercel.app/
 - https://react-materialui-five.vercel.app/
+- [postgresql-stephengrider-postgresql (🗎)](https://github.com/clarklindev/postgresql-stephengrider-postgresql)
 ---
 
 ## Notes
