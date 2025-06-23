@@ -1,6 +1,6 @@
 ## Portfolio
 
-- my-portfolio-phi-two-10.vercel.app
+- http://my-portfolio-phi-two-10.vercel.app
 
 - https://vite-lib-test.vercel.app/
 - https://threejourney.vercel.app/
