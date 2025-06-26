@@ -2,7 +2,7 @@
 
 - http://my-portfolio-phi-two-10.vercel.app
 
-- mankindui-test.vercel.app/
+- https://mankindui-test.vercel.app/
 - https://threejourney.vercel.app/
 - https://tailwindcss-loopstudios.vercel.app/
 - https://nextjs-ecommerce-clarklindev.vercel.app/
